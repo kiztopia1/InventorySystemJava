@@ -33,5 +33,5 @@ This is a simple Inventory Management System, developed as a school project. The
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kiztopia1/inventory-management-java.git
+   git clone https://github.com/kiztopia1/inventorySystemJava.git
    ```
