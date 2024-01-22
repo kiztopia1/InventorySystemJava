@@ -13,17 +13,21 @@ This is a simple Inventory Management System, developed as a school project. The
 | Sofonias Hagos     | RCD 0847 |
 | Mekides Addisu     | RCD 0827 |
 | Selamawit Yirgalem | RCD 0845 |
+| Kidus Yared Negash | RCD 2770 |
 
 ## Features
 
-- [List some key features of your Inventory Management System]
+- Adding Items
+- updating Items
+- Deleting Items
+- Searching Items
 
 ## Getting Started
 
 ### Prerequisites
 
 - Java Development Kit (JDK) installed
-- [Any other prerequisites...]
+- my sql server with Project database and items table
 
 ### Installation
 
